@@ -1,0 +1,69 @@
+.container_adress {
+    display: block;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 117%;
+}
+
+.links_address {
+    text-decoration: none;
+    color: white;
+}
+
+.address {
+    margin-bottom: 39px;
+}
+
+.address_list{
+    list-style: none;
+    margin: 0;
+}
+
+.street {
+    margin-bottom: 38px;
+}
+
+.address_img {
+    margin-right: 30px;
+}
+
+.tel {
+    margin-bottom: 11px;
+}
+
+.mail {
+    margin-bottom: 0;
+}
+
+.address_list_tel {
+    margin-bottom: 11px;
+}
+
+.links-to-us {
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+
+.links-to-groups {
+    display: block;
+    width: 48px;
+    height: 48px;
+    margin-right: 26px;
+}
+
+.contact {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 54px;
+}
+
+.links-to-groups:last-child{
+    margin: 0;
+}
+

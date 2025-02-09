@@ -1,0 +1,258 @@
+.questions {
+    font-weight: 700;
+    font-size: 24px;
+    padding: 30px 70px;
+    margin:0 0 20px;
+}
+.questions:nth-child(odd) {
+    background-color: #fff;
+    color: #1C1A1A;
+}
+
+.questions:nth-child(even) {
+    background-color: #440F51;
+    color: white;
+}
+
+.questions:last-child {
+    margin-bottom: 0; 
+}
+
+.frequent {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.game_over {
+    display: flex;
+    font-weight: 900;
+    font-size: 150px;
+    line-height: 100%;
+    letter-spacing: -0.1em;
+    color: #fff;
+    margin: 0;
+}
+
+.banner_head {
+    display: flex;
+    width: 675px;
+    height: 762px;
+    background-image: url('../img/first-imge.png');
+}
+
+
+
+.new-format {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 179%;
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.header {
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+.our-halls-section {
+    margin-bottom: 100px;
+}
+
+.our-halls {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+}
+
+.our-halls-photo {
+    list-style: none;
+    display: block;
+    margin-top: 0;
+    place-items: center;
+}
+
+.halls-photo{
+    display: block;
+    width: 1180px;
+    height: 710px;
+    padding: 305px;
+    max-width:  895px;
+}
+
+
+
+
+
+.list_element_halls {
+    display: block;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 114%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 60px;
+}
+
+.list_img_halls:last-child {
+    margin-bottom: 0;
+}
+
+.vibes {
+    background-image: url('../img/80svibes.jpg');
+}
+
+.star-wars {
+    background-image: url('../img/star-wars.jpg');
+}
+
+.wild-west {
+    background-image: url('../img/wild-west.jpg');
+}
+
+.neone-style {
+    background-image: url('../img/neon-style.jpg');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.booking {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+}
+
+
+.Book {
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+.about-us-section{
+    margin-bottom: 100px;
+}
+
+.about-us {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.p-about {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #fff;
+    margin-top: 0;
+}
+
+
+.about-game-over {
+    display: flex;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 114%;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.boss {
+    display: flex;
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+}
+
+.biography {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #fff;
+}
+
+
+
+
+
+
+.private-questions-section {
+    margin-bottom: 100px;
+}
+
+.private-questions {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
